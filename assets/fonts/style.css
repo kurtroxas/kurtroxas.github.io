@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'HelveticaNeueCondensedBold';
+   font-display: swap;
+   src: url('HelveticaNeueCondensedBold/font.ttf');
+}
+@font-face {
+   font-family: 'HelveticaNeueMedium';
+   font-display: swap;
+   src: url('HelveticaNeueMedium/font.ttf');
+}
